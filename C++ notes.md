@@ -1,0 +1,13 @@
+- c is for character and i is for integer
+- to update we use j++;
+- the hold type can hold exactly two values
+- function_name(expression, expresssion2, ..., expressionn)
+	- example
+	- sqrt(x)
+- there is built in functions to be used or call for math
+- Greet has three inpts they are (saultations, name, and date) with only one output
+- datatype_return functionname(input)
+- void make the command return nothing
+- ordering and datay=type matters pay attention to detail
+- abs is absolute value
+- galesta.dedimc.io
